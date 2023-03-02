@@ -4,7 +4,7 @@ Objective: Write a program that **takes a filename as a command-line argument** 
 
 1.	Open the file provided as a command-line argument.
 
-2.	Read the contents of the file one-line at a time.
+2.	Read the contents of the file one-line at a time (use fgets or getline).
 
 3.	Use fork-exec to create a new process that executes the program specified in the input file along with the arguments provided.
 
