@@ -21,14 +21,15 @@ Please use standard I/O library function calls for all I/O operations in this as
 Here is a sample input file:
 
 
-```uname -a
+```
+uname -a
 /sbin/ifconfig
 /home/UAB/puri/CS332/lab7/hw1 500
 /home/UAB/puri/CS332/lab7/hw1 1000
 ```
 
 Note: You will need to provide a different path for the hw1 executable.
-
+Note: There might be more than one argument to the command (i.e. echo hello world).
 
 Here is the corresponding sample output log file:
 
