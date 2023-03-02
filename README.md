@@ -21,10 +21,10 @@ Please use standard I/O library function calls for all I/O operations in this as
 Here is a sample input file:
 
 `
-uname -a
-/sbin/ifconfig
-/home/UAB/puri/CS332/lab7/hw1 500
-/home/UAB/puri/CS332/lab7/hw1 1000 
+uname -a\n
+/sbin/ifconfig\n
+/home/UAB/puri/CS332/lab7/hw1 500\n
+/home/UAB/puri/CS332/lab7/hw1 1000\n
 `
 
 Note: You will need to provide a different path for the hw1 executable.
