@@ -20,30 +20,24 @@ Please use standard I/O library function calls for all I/O operations in this as
 
 Here is a sample input file:
 
-`
-uname -a
 
+```uname -a
 /sbin/ifconfig
-
 /home/UAB/puri/CS332/lab7/hw1 500
-
 /home/UAB/puri/CS332/lab7/hw1 1000
-`
+```
 
 Note: You will need to provide a different path for the hw1 executable.
 
 
 Here is the corresponding sample output log file:
 
-`
+```
 uname -a    Thu Oct 10 17:43:44 2019    Thu Oct 10 17:43:44 2019
-
 /sbin/ifconfig    Thu Oct 10 17:43:44 2019    Thu Oct 10 17:43:44 2019
-
 /home/UAB/puri/CS332/lab7/hw1 500    Thu Oct 10 17:43:45 2019    Thu Oct 10 17:43:46 2019
-
 /home/UAB/puri/CS332/lab7/hw1 1000    Thu Oct 10 17:43:46 2019    Thu Oct 10 17:43:57 2019
-`
+```
 
 Hints: 
 You can download the sample C program hw1.c (this is an old homework assignment). This program has some similar functions, feel free to use them.  Compile the program using the following command:
