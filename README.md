@@ -1,5 +1,11 @@
 # Lab-07: Fork and Exec
 
+/*
+Shahaan Farrukh
+To Compile: gcc -o lab07 labo7c
+To Run: ./lab07 <filename>
+*/
+
 Objective: Write a program that **takes a filename as a command-line argument** and performs the following steps:
 
 1.	Open the file provided as a command-line argument.
@@ -14,7 +20,7 @@ Objective: Write a program that **takes a filename as a command-line argument** 
 
 6.	Open a log file (say, output.log) and write the command executed along with arguments, start time of the process, and the end time of the process separated by tabs. Use **ctime function to write the time in a human readable form.**
 
-7.	Go to step 2 and repeat the above process for very command in the input file.
+7.	Go to step 2 and repeat the above process for every command in the input file.
 Please use standard I/O library function calls for all I/O operations in this assignment. Make sure you open the file in the appropriate modes for reading and writing and also make sure to close the file, especially when you are writing the file.
 
 
