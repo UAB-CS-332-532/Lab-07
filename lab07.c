@@ -1,5 +1,5 @@
 /*
-Shahaan Farrukh
+Shahaan Farrukhgit
 To Compile: gcc -o lab07 labo7c
 To Run: ./lab07 <filename>
 */
